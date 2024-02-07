@@ -78,23 +78,25 @@ You can contact me through the following means:
 
 ### Examples or Demonstrations
 
-![Captura de pantalla 1](Images/preview_images/1.jpg)
-![Captura de pantalla 2](Images/preview_images/2.jpg)
-![Captura de pantalla 3](Images/preview_images/3.jpg)
-![Captura de pantalla 4](Images/preview_images/4.jpg)
-![Captura de pantalla 5](Images/preview_images/5.jpg)
-![Captura de pantalla 6](Images/preview_images/6.jpg)
-![Captura de pantalla 7](Images/preview_images/7.jpg)
-![Captura de pantalla 8](Images/preview_images/8.jpg)
-![Captura de pantalla 9](Images/preview_images/9.jpg)
-![Captura de pantalla 10](Images/preview_images/10.jpg)
-![Captura de pantalla 11](Images/preview_images/11.jpg)
-![Captura de pantalla 12](Images/preview_images/12.jpg)
-![Captura de pantalla 13](Images/preview_images/13.jpg)
-![Captura de pantalla 14](Images/preview_images/14.jpg)
-![Captura de pantalla 15](Images/preview_images/15.jpg)
-![Captura de pantalla 16](Images/preview_images/16.jpg)
-![Captura de pantalla 17](Images/preview_images/17.jpg)
-![Captura de pantalla 18](Images/preview_images/18.jpg)
-![Captura de pantalla 19](Images/preview_images/19.jpg)
-![Captura de pantalla 20](Images/preview_images/20.jpg)
+<div style="display:flex; flex-wrap:wrap;">
+    <img src="Images/preview_images/1.jpg" alt="Captura de pantalla 1" style="width:150px; margin-right:10px;">
+    <img src="Images/preview_images/2.jpg" alt="Captura de pantalla 2" style="width:150px; margin-right:10px;">
+    <img src="Images/preview_images/3.jpg" alt="Captura de pantalla 3" style="width:150px; margin-right:10px;">
+    <img src="Images/preview_images/4.jpg" alt="Captura de pantalla 4" style="width:150px; margin-right:10px;">
+    <img src="Images/preview_images/5.jpg" alt="Captura de pantalla 5" style="width:150px; margin-right:10px;">
+    <img src="Images/preview_images/6.jpg" alt="Captura de pantalla 6" style="width:150px; margin-right:10px;">
+    <img src="Images/preview_images/7.jpg" alt="Captura de pantalla 7" style="width:150px; margin-right:10px;">
+    <img src="Images/preview_images/8.jpg" alt="Captura de pantalla 8" style="width:150px; margin-right:10px;">
+    <img src="Images/preview_images/9.jpg" alt="Captura de pantalla 9" style="width:150px; margin-right:10px;">
+    <img src="Images/preview_images/10.jpg" alt="Captura de pantalla 10" style="width:150px; margin-right:10px;">
+    <img src="Images/preview_images/11.jpg" alt="Captura de pantalla 11" style="width:150px; margin-right:10px;">
+    <img src="Images/preview_images/12.jpg" alt="Captura de pantalla 12" style="width:150px; margin-right:10px;">
+    <img src="Images/preview_images/13.jpg" alt="Captura de pantalla 13" style="width:150px; margin-right:10px;">
+    <img src="Images/preview_images/14.jpg" alt="Captura de pantalla 14" style="width:150px; margin-right:10px;">
+    <img src="Images/preview_images/15.jpg" alt="Captura de pantalla 15" style="width:150px; margin-right:10px;">
+    <img src="Images/preview_images/16.jpg" alt="Captura de pantalla 16" style="width:150px; margin-right:10px;">
+    <img src="Images/preview_images/17.jpg" alt="Captura de pantalla 17" style="width:150px; margin-right:10px;">
+    <img src="Images/preview_images/18.jpg" alt="Captura de pantalla 18" style="width:150px; margin-right:10px;">
+    <img src="Images/preview_images/19.jpg" alt="Captura de pantalla 19" style="width:150px; margin-right:10px;">
+    <img src="Images/preview_images/20.jpg" alt="Captura de pantalla 20" style="width:150px;">
+</div>

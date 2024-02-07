@@ -36,6 +36,8 @@ A residential management application that offers access control by QR codes, eff
 - **Dynamic and Easy-to-Use Administrative Panel:**
   - Offers an intuitive and dynamic administration panel, making application management easier for administrators.
 
+---
+
 ### Application installation
 
 You can download and install the app from the following app stores:
@@ -45,29 +47,35 @@ You can download and install the app from the following app stores:
 
 ---
 
-### Más Trabajos Míos
+### More of My Work
 
-Aquí hay una lista adicional de mis trabajos y proyectos:
+Here is an additional list of my works and projects:
 
-1. **Borhood:** Breve descripción del Proyecto A. Puedes incluir un enlace a más información si está disponible.
+1. **Borhood:** It is an innovative project in your portfolio that represents a mobile application designed specifically for the taxi sector in Colombia.
 
-2. **Proyecto B:** Breve descripción del Proyecto B. Puedes incluir un enlace a más información si está disponible.
+2. **TaxiApp:** It is an innovative project in your portfolio that represents a mobile application designed specifically for the taxi sector in Colombia.
 
-3. **Proyecto C:** Breve descripción del Proyecto C. Puedes incluir un enlace a más información si está disponible.
+3. **FinderAlpha:** is the definitive tool for traders, designed to optimize decision making in the dynamic stock market.
 
-### Créditos
+---
 
-Este proyecto fue creado y desarrollado por [Nombre del Creador](www.ad.com), quien también ideó el prototipo inicial.
+### Credits
 
-### Contacto
+This project was created and developed by [Santiago Gallo](https://github.com/santiagogalo), who also came up with the initial prototype.
 
-Puedes contactarme a través de los siguientes medios:
+---
 
-- Teléfono: [Whatsapp](www.ad.com)
-- Correo electrónico: [Email](www.ad.com)
-- Redes sociales:
+### Contact
+
+You can contact me through the following means:
+
+- Telephone: [Whatsapp](https://api.whatsapp.com/send?phone=573041047207)
+- Email: [Email](www.ad.com)
+- Social networks:
   - [Linkedin](www.ad.com)
-  - [Sitio Web](www.ad.com)
+  - [Website](www.ad.com)
+
+---
 
 ### Ejemplos o Demostraciones
 

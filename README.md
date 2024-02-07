@@ -43,6 +43,8 @@ You can download and install the app from the following app stores:
 - [App Store (iOS)](https://play.google.com/store/apps/details?id=galo.fly.borhood&hl=es_DO&gl=US)
 - [Google Play Store (Android)](https://apps.apple.com/fi/app/borhood/id6468190119)
 
+---
+
 ### Más Trabajos Míos
 
 Aquí hay una lista adicional de mis trabajos y proyectos:

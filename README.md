@@ -51,11 +51,11 @@ You can download and install the app from the following app stores:
 
 Here is an additional list of my works and projects:
 
-1. **Borhood:** It is an innovative project in your portfolio that represents a mobile application designed specifically for the taxi sector in Colombia.
+1. **[Borhood](https://github.com/santiagogalo/Borhood_Oficial):** It is an innovative project in your portfolio that represents a mobile application designed specifically for the taxi sector in Colombia.
 
-2. **TaxiApp:** It is an innovative project in your portfolio that represents a mobile application designed specifically for the taxi sector in Colombia.
+2. **[TaxiApp](https://github.com/santiagogalo/TaxiApp):** It is an innovative project in your portfolio that represents a mobile application designed specifically for the taxi sector in Colombia.
 
-3. **FinderAlpha:** is the definitive tool for traders, designed to optimize decision making in the dynamic stock market.
+3. **[FinderAlpha](https://github.com/santiagogalo/Finderalpha):** is the definitive tool for traders, designed to optimize decision making in the dynamic stock market.
 
 ---
 

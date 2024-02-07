@@ -2,7 +2,7 @@
 
 A residential management application that offers access control by QR codes, efficient communication between residents and security, reservations of common areas and a detailed registration of visits. Borhood simplifies community life by providing a comprehensive solution for residential management.
 
-### Características de la Aplicación:
+### Application Features:
 
 - **Smart Voice Login:**
 
@@ -35,3 +35,38 @@ A residential management application that offers access control by QR codes, eff
 
 - **Dynamic and Easy-to-Use Administrative Panel:**
   - Offers an intuitive and dynamic administration panel, making application management easier for administrators.
+
+### Application installation
+
+You can download and install the app from the following app stores:
+
+- [App Store (iOS)](https://play.google.com/store/apps/details?id=galo.fly.borhood&hl=es_DO&gl=US)
+- [Google Play Store (Android)](https://apps.apple.com/fi/app/borhood/id6468190119)
+
+### Más Trabajos Míos
+
+Aquí hay una lista adicional de mis trabajos y proyectos:
+
+1. **Borhood:** Breve descripción del Proyecto A. Puedes incluir un enlace a más información si está disponible.
+
+2. **Proyecto B:** Breve descripción del Proyecto B. Puedes incluir un enlace a más información si está disponible.
+
+3. **Proyecto C:** Breve descripción del Proyecto C. Puedes incluir un enlace a más información si está disponible.
+
+### Créditos
+
+Este proyecto fue creado y desarrollado por [Nombre del Creador](www.ad.com), quien también ideó el prototipo inicial.
+
+### Contacto
+
+Puedes contactarme a través de los siguientes medios:
+
+- Teléfono: [Whatsapp](www.ad.com)
+- Correo electrónico: [Email](www.ad.com)
+- Redes sociales:
+  - [Linkedin](www.ad.com)
+  - [Sitio Web](www.ad.com)
+
+### Ejemplos o Demostraciones
+
+Aquí incluiré imágenes de mis proyectos.

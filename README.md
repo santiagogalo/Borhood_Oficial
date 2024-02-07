@@ -78,7 +78,7 @@ You can contact me through the following means:
 
 ### Examples or Demonstrations
 
-<div style="display:flex; flex-wrap:wrap;">
+<div style="display:flex; flex-wrap:wrap; gap: 30px">
     <img src="Images/preview_images/1.jpg" alt="Captura de pantalla 1" style="width:150px; margin-right:10px;">
     <img src="Images/preview_images/2.jpg" alt="Captura de pantalla 2" style="width:150px; margin-right:10px;">
     <img src="Images/preview_images/3.jpg" alt="Captura de pantalla 3" style="width:150px; margin-right:10px;">

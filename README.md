@@ -1,6 +1,6 @@
 # ![Texto alternativo](Images/presentation/banner.png) Borhood Repositorio Oficial
 
-A residential management application that offers access control by QR codes, efficient communication between residents and security, reservations of common areas and a detailed registration of visits. Borhood simplifies community life by providing a comprehensive solution for residential management.
+Borhood is an innovative project in your portfolio that represents a mobile application designed specifically for the taxi sector in Colombia. TaxiApp's main value proposition is to modernize and simplify the current taxi system, significantly facilitating the service request process for users. The application is designed to be adaptable and useful for various taxi companies, suggesting a versatile and customizable platform.
 
 ### Application Features:
 
